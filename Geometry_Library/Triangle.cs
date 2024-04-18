@@ -1,4 +1,3 @@
-// Triangle.cs
 
 public class Triangle : IShape
 {

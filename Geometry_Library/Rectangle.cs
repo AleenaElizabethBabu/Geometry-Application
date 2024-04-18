@@ -1,4 +1,4 @@
-// Rectangle.cs
+
 
 public class Rectangle : IShape
 {

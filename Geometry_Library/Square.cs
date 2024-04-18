@@ -1,4 +1,4 @@
-// Square.cs
+
 
 public class Square : IShape
 {
